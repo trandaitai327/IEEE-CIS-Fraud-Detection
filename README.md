@@ -1,5 +1,5 @@
 # IEEE-CIS-Fraud-Detection
-IEEE-CIS Fraud Detection - 1st Place Solution
+IEEE-CIS Fraud Detection - 1st Place Solution \
 Group 9: \
 18120009 - Vương Gia Bảo \
 18120498 - Nguyễn Thị Hồng Nhung \
