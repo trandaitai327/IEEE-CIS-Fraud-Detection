@@ -6,4 +6,4 @@ Group 9: \
 18120533 - Dương Đoàn Bảo Sơn \
 18120543 - Trần Đại Tài \
 Link Competition: https://www.kaggle.com/c/ieee-fraud-detection \
-Link Data: https://www.kaggle.com/c/ieee-fraud-detection/data \
+Link Data: https://www.kaggle.com/c/ieee-fraud-detection/data 
