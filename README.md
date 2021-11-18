@@ -2,7 +2,7 @@
 [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection) - [1st Place Solution](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284)  -  [Chris Deotte](https://www.kaggle.com/cdeotte) \
 Research Prediction Competition \
 Đồ án môn học Khoa Học Dữ Liệu Ứng Dụng \
-Group <img src="https://media.giphy.com/media/FQpmX52vDfhja/giphy.gif" width="10px"> \
+Group <img src="https://media.giphy.com/media/FQpmX52vDfhja/giphy.gif" width="18px"> \
  18120009 - Vương Gia Bảo \
  18120498 - Nguyễn Thị Hồng Nhung \
  18120533 - Dương Đoàn Bảo Sơn \
