@@ -1,5 +1,5 @@
 # IEEE-CIS-Fraud-Detection
-[IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection) - [1st Place Solution](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284)  - Tác giả: [Chris Deotte](https://www.kaggle.com/cdeotte)
+[IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection) - [1st Place Solution](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284)  -  [Chris Deotte](https://www.kaggle.com/cdeotte) \
 Research Prediction Competition \
 Group 9: \
  18120009 - Vương Gia Bảo \
