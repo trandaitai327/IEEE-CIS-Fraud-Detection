@@ -1,4 +1,4 @@
-# IEEE-CIS-Fraud-Detection <img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif" width="25px"> 
+# IEEE-CIS-Fraud-Detection <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"> 
 [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection) - [1st Place Solution](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284)  -  [Chris Deotte](https://www.kaggle.com/cdeotte) \
 Research Prediction Competition \
 Đồ án môn học Khoa Học Dữ Liệu Ứng Dụng \
