@@ -3,7 +3,7 @@
 Research Prediction Competition \
 Đồ án môn học Khoa Học Dữ Liệu Ứng Dụng \
 Link Competition: https://www.kaggle.com/c/ieee-fraud-detection \
-Link Data: https://www.kaggle.com/c/ieee-fraud-detection/data \
+Link Data: https://www.kaggle.com/c/ieee-fraud-detection/data 
 ### Group <img src="https://media.giphy.com/media/FQpmX52vDfhja/giphy.gif" width="20px"> 
  1. 18120009 - Vương Gia Bảo 
  2. 18120498 - Nguyễn Thị Hồng Nhung 
