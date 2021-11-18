@@ -1,4 +1,5 @@
-# IEEE-CIS-Fraud-Detection <iframe src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5">via GIPHY</a></p>
+# IEEE-CIS-Fraud-Detection 
+<iframe src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5">via GIPHY</a></p>
 [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection) - [1st Place Solution](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284)  -  [Chris Deotte](https://www.kaggle.com/cdeotte) \
 Research Prediction Competition \
 Đồ án môn học Khoa Học Dữ Liệu Ứng Dụng \
