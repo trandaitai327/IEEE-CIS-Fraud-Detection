@@ -4,7 +4,7 @@ Research Prediction Competition \
 Đồ án môn học Khoa Học Dữ Liệu Ứng Dụng \
 Link Competition: https://www.kaggle.com/c/ieee-fraud-detection \
 Link Data: https://www.kaggle.com/c/ieee-fraud-detection/data \
-Link kaggle solution của nhóm: https://www.kaggle.com/sndngonbo/ieee-xgb 
+Link kaggle solution của nhóm: https://www.kaggle.com/nhungng/report-appliedds
 ### Group <img src="https://media.giphy.com/media/FQpmX52vDfhja/giphy.gif" width="20px"> 
  1. 18120009 - Vương Gia Bảo - [bao12012000](https://github.com/bao12012000)
  2. 18120498 - Nguyễn Thị Hồng Nhung - [nhung-ng](https://github.com/nhung-ng)
